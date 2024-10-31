@@ -1,0 +1,29 @@
+
+	*{
+		margin: 0;
+		bottom: 0;
+		padding: 0;
+	}
+	
+	h1{
+		text-align: center;
+	}
+
+	img{
+		width: 250px;
+	}
+
+	body{
+		font-style: sans serif;
+		background-color: beige;
+	}
+
+	span{
+		background-color: #FFBAC6;
+		width: 100px;
+	}
+
+	a{
+		text-decoration: none;
+		color: #;
+	}
