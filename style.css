@@ -9,21 +9,34 @@
 		text-align: center;
 	}
 
+
+	.footer{
+		position: fixed;
+		background-color:pink;
+		width: 100%;
+		color: darkslateblue;
+	}
+
 	img{
 		width: 250px;
 	}
 
+	table{
+		padding: 15px;
+		text-align: justify;
+	}
+
 	body{
 		font-style: sans serif;
-		background-color: beige;
+		background-image: url(https://images8.alphacoders.com/736/thumb-1920-736059.png);
 	}
 
 	span{
-		background-color: #FFBAC6;
-		width: 100px;
+		background-color: lightpink;
+		max-width: 100%;
 	}
 
 	a{
+		color: blue;
 		text-decoration: none;
-		color: #;
 	}
